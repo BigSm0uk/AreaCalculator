@@ -1,0 +1,11 @@
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\bin\Debug\net8.0\AreaCalculator.deps.json
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\bin\Debug\net8.0\AreaCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\bin\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll

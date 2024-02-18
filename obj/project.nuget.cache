@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kliNzgpa/veNGuw7HDWTphjsuChMRrDp0EdVeD3xUCqC2wMAtaLJFphs36OiIjpQ1Lo+KuhGUFJkgyHN//N5UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\RiderProjects\\MyThreadsExample\\MindboxCase\\MindboxCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\spectre.console.cli\\0.48.0\\spectre.console.cli.0.48.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

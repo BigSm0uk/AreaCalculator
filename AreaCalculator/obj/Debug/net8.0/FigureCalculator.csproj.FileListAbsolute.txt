@@ -1,0 +1,11 @@
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\bin\Debug\net8.0\FigureCalculator.deps.json
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\bin\Debug\net8.0\FigureCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\bin\Debug\net8.0\FigureCalculator.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.AssemblyInfoInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.AssemblyInfo.cs
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\refint\FigureCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\FigureCalculator.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\FigureCalculator\obj\Debug\net8.0\ref\FigureCalculator.dll
