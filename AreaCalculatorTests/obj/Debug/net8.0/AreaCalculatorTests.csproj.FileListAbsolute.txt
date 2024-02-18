@@ -104,3 +104,4 @@ C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculatorTests\ob
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculatorTests\obj\Debug\net8.0\AreaCalculatorTests.pdb
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculatorTests\obj\Debug\net8.0\AreaCalculatorTests.genruntimeconfig.cache
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculatorTests\obj\Debug\net8.0\ref\AreaCalculatorTests.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculatorTests\obj\Debug\net8.0\AreaCalculatorTests.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Deb
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
 C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MindboxCase\AreaCalculator\obj\Debug\net8.0\AreaCalculator.sourcelink.json

@@ -2,5 +2,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=959c4c6e_002D208f_002D4b29_002D83e4_002D18c1b49c4e9a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="test_valid_triangle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::97C42A83-FBDB-40EC-A593-8FDD8260CE43::net8.0::AreaCalculatorTests.TriangleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::97C42A83-FBDB-40EC-A593-8FDD8260CE43::net8.0::AreaCalculatorTests.CircleTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
